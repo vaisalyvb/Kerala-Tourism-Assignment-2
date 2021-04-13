@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.position{
+    margin-left: 13cm;
+}
+h1{
+    color:darkblue;
+    
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    height: 2cm;
+    margin-top: 1cm;
+}
+.text-decoration{
+    text-decoration: none;
+}

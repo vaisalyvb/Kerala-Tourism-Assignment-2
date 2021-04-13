@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head-tag{
+    word-spacing: 10px;
+    float: right;
+    margin-top: 33px;
+    margin-right: 10%;
+    
+}
+
+
+h1{
+    text-align: center;
+    color: sienna;
+    font-size: 1cm;
+}
+
+.gallery{
+    float:left;
+    border: 3px solid black;
+    border-spacing: 1em 5em;
+    margin: 1cm;
+}
+.gallery p{
+
+    position: absolute;
+    padding-left: 20px;
+    padding-top: 2px;
+    
+    font-size: 20px;
+    font-weight: bold;
+    }
+    

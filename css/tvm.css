@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.title-image{
+padding: 20px;
+margin: 20px;
+}
+h1{
+    
+    font-weight: bold;
+    color: brown;
+    padding: 20px;
+    margin: 20px;
+
+}
+p{
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+.def{
+    font-size: 20px;
+}
+h2{
+    color:rgb(78, 56, 15);
+    font-style: italic;
+    text-align: center;
+}
+.gallery{
+    
+    width: 20%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    margin: 20px;
+}
+
+.gallery p{
+
+position: absolute;
+padding-left: 0px;
+padding-top: 2px;
+
+font-size: 15px;
+font-weight: bold;
+}
+
+
